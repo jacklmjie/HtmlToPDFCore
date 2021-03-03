@@ -1,6 +1,8 @@
 [![Nuget count](http://img.shields.io/nuget/v/HtmlToPDFCore.svg)](http://www.nuget.org/packages/HtmlToPDFCore/)
 [![.NET Core](https://github.com/carloscds/HtmlToPDFCore/workflows/.NET%20Core/badge.svg)](https://github.com/carloscds/HtmlToPDFCore/actions)
 
+[linux wkhtmltopdf 运行报错](https://blog.csdn.net/u014028634/article/details/80902702)
+
 # HtmlToPDFCore
 Convert HTML to PDF
 
